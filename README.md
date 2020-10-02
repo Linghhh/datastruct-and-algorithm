@@ -1,4 +1,4 @@
-# datastruct-and-algorithm-for-C++
-book:<<Data Structures and Algorithm Analusis in C++>>--Mark Allen Weiss
-一、表、栈和队列
-  1、Josephus算法--stl实现
+# datastruct-and-algorithm-for-C++  
+book:<<Data Structures and Algorithm Analusis in C++>>--Mark Allen Weiss  
+一、表、栈和队列  
+  1、Josephus算法--stl实现  
